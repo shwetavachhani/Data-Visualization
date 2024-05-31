@@ -1,0 +1,30 @@
+Name,International visitors to London
+ShortName,Tourists to London
+,
+,
+,
+Theme,Culture
+Sub-theme,Tourism
+,
+Title,International visitors to London
+Description,"Visitors from overseas broken down by duration, quarter and country of origin. Table include data on visits, nights and spend."
+Subject,Tourists
+Subject.keyword,"tourism, tourists, visitors, overseas, spend, international, ips"
+Publisher,Visit Britain
+Date.available,2002 to 2020
+Creator,"Office for National Statistics (ONS), International Passenger Survey"
+Date.created,Aug-20
+Coverage.spatial,London
+Coverage.temporal,Quarterly
+Type,Estimates
+Language,English
+Rights,ONS
+More info,http://www.ons.gov.uk/ons/guide-method/method-quality/specific/travel-and-transport-methodology/international-passenger-survey/index.html
+Download from,http://www.visitbritain.org/latest-quarterly-data-area
+Measure,"Numbers, Thousands, and £millions"
+Warnings/Notes,Sample size of the IPS shown to indicate reliability of the estimates
+,
+,
+,
+,
+Next release,Sep-20
